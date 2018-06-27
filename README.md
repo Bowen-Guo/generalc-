@@ -1,2 +1,2 @@
-# generalc-
-general functions of allocation, io and math operations
+# generalcpp
+general functions of allocation, io and math operations writen in c++
